@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIUtility", "CLIUtility\CLIUtility.csproj", "{B8055DDE-A667-41B9-B6E9-CE2BCFB4D2A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIUtilityTest", "CLIUtilityTest\CLIUtilityTest.csproj", "{D45A7339-AA23-4E6E-BA05-AF887080D079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8055DDE-A667-41B9-B6E9-CE2BCFB4D2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8055DDE-A667-41B9-B6E9-CE2BCFB4D2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8055DDE-A667-41B9-B6E9-CE2BCFB4D2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8055DDE-A667-41B9-B6E9-CE2BCFB4D2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45A7339-AA23-4E6E-BA05-AF887080D079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45A7339-AA23-4E6E-BA05-AF887080D079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45A7339-AA23-4E6E-BA05-AF887080D079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45A7339-AA23-4E6E-BA05-AF887080D079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
