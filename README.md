@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/hartalex/cli-utility.svg?branch=master)](https://travis-ci.org/hartalex/cli-utility)
 # cli-utility
 A Command Line Utility Library
 
